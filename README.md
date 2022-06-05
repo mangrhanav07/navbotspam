@@ -1,1 +1,1 @@
-# navbotspam
+# spambot-heroku
